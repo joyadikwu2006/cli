@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Transport",
+        "amount": 500
+    },
+    {
+        "description": "Lunch",
+        "amount": 1250
+    },
+    {
+        "description": "data",
+        "amount": 300.0
+    }
+]
